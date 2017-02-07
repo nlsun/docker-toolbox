@@ -12,6 +12,7 @@ RUN apt-get update && \
         iputils-ping \
         ipvsadm \
         jq \
+        net-tools \
         netcat \
         nmap \
         python3 \
